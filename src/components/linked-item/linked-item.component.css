@@ -1,0 +1,12 @@
+.linked-item {
+    margin: 0 5px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    max-width: 250px;
+}
+
+.linked-item a {
+    color: inherit;
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.ads-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ads-item img {
+    width: 50%;
+}
+.ads-item_subtext {
+    font-size: 15px;
+    opacity: .5;
+}

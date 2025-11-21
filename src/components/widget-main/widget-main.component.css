@@ -1,0 +1,36 @@
+
+.links-content {
+    display: flex;
+}
+
+.links-content a{
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.main-content {
+    margin: 20px 0;
+    display: flex;
+    align-items: end;
+}
+
+.main-content img {
+    object-fit: contain;
+    overflow: hidden;
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.search-container {
+    display: flex;
+}
+
+.search-container input {
+    width: 100%;
+}
+
+.base-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

@@ -1,0 +1,8 @@
+.links-content {
+    display: flex;
+}
+
+.links-content a{
+    margin-right: 30px;
+    text-decoration: none;
+}
